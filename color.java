@@ -3,6 +3,7 @@ class Color{
 		System.out.println("pink");
 		System.out.println("blue");
 		System.out.println("lion");
+		System.out.println("color 2 ");
 
 	}
 }
